@@ -1,5 +1,5 @@
 <div align="center"> <h1>👋 Приветствую, я Алан!                                           
-[I](https://github.com/alandzarasov/alandzarasov/blob/main/ааа%20494%20copy%3D%203.jpg)</div>
+[I](https://github.com/alandzarasov/alandzarasov/blob/main/ааа%20494%20copy%3D%203.jpg) </div>
 
 
 
