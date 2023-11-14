@@ -8,7 +8,7 @@
 2️⃣ Работаю в казначействе Топ-10 банков России <br>
 3️⃣ Успешно прошел множество курсов профессиональной подготовки в области науки о данных <br>
 4️⃣ Отлично владею SQL, Sklearn, Python, Pandas, Numpy, Sklearn, Matplotlib, PyPlot, Seaborn, PyTorch и другими библиотеками  <br>
-5️⃣ Как связаться со мной : Напишите мне по адресу <a href="adzarasov@yandex.ru">adzarasov@yandex.ru</a><br>
+5️⃣ Как связаться со мной : <a href="adzarasov@yandex.ru">adzarasov@yandex.ru</a> или +79888363161<br>
 6️⃣ Я интересуюсь аналитикой, наукой о данных и всем что с этим связано <br>
   
 
