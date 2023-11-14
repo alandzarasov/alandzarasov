@@ -1,5 +1,4 @@
 <div align="center"> <h1>👋 Приветствую, я Алан! </div>
-![Uploading ааа 494 copy= 3.png…]()
 
 
 
