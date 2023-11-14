@@ -1,6 +1,6 @@
 <div align="center"> <h1>👋 Приветствую, я Алан! </div>
 
-
+![I](https://github.com/alandzarasov/alandzarasov/blob/main/ааа%20494%20copy%3D%203.png)
 
 ### Добро пожаловать на мою страницу!
 
