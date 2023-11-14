@@ -1,7 +1,7 @@
-<div align="center"> <h1>👋 Приветствую, я Алан!    </div>                                
+<div align="center"> <h1>👋 Приветствую, я Алан!  ![ааа 494 copy= 3](https://github.com/alandzarasov/alandzarasov/assets/135212570/ac21069d-2900-4896-9618-2f1f464830a7)  </div>                                
   
 
-![ааа 494 copy= 3](https://github.com/alandzarasov/alandzarasov/assets/135212570/ac21069d-2900-4896-9618-2f1f464830a7)
+
 
 
 
